@@ -1,4 +1,4 @@
-## Reasearch - Hello world
+## Research - Hello world
 
 - Front end : React.js
 - Backend : Flask | openCV
